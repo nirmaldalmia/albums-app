@@ -23,7 +23,7 @@ const Styles = StyleSheet.create({
     shadowColor: '#000000',
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.2,
-    elevation: 2,
+    elevation: 5,
     position: 'relative'
   }
 });
